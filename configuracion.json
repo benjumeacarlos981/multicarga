@@ -12,7 +12,7 @@
         "id": 1,
         "className": "social-link twitter",
         "href": "https://twitter.leonidasesteban",
-        "col": "col-3"
+        "col": "col-2"
       },
       {
         "id": 2,
@@ -36,7 +36,7 @@
         "id": 5,
         "className": "social-link github",
         "href": "https://instagram.com/leonidasesteban",
-        "col": "col-3"
+        "col": "col-2"
       }
 
     ]
