@@ -12,25 +12,25 @@
         "id": 1,
         "className": "social-link twitter",
         "href": "https://twitter.leonidasesteban",
-        "col": "col-2"
+        "col": "col-3"
       },
       {
         "id": 2,
         "className": "social-link facebook",
         "href": "https://facebook.com/leonidas.esteban",
-        "col": "col-2"
+        "col": "col-3"
       },
       {
         "id": 3,
         "className": "social-link instagram",
         "href": "https://instagram.com/leonidasesteban",
-        "col": "col-2"
+        "col": "col-3"
       },
       {
         "id": 4,
         "className": "social-link github",
         "href": "https://instagram.com/leonidasesteban",
-        "col": "col-2"
+        "col": "col-3"
       }
 
     ]
