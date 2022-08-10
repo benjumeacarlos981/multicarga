@@ -18,16 +18,22 @@
         "id": 2,
         "className": "social-link facebook",
         "href": "https://facebook.com/leonidas.esteban",
-        "col": "col-3"
+        "col": "col-2"
       },
       {
         "id": 3,
         "className": "social-link instagram",
         "href": "https://instagram.com/leonidasesteban",
-        "col": "col-3"
+        "col": "col-2"
       },
       {
         "id": 4,
+        "className": "social-link github",
+        "href": "https://instagram.com/leonidasesteban",
+        "col": "col-2"
+      },
+            {
+        "id": 5,
         "className": "social-link github",
         "href": "https://instagram.com/leonidasesteban",
         "col": "col-3"
