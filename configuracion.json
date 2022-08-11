@@ -100,6 +100,12 @@
         "imagen": "cargaPesadaconJose.jfif",
         "alt": "Imagen Carga pesada con jose",
         "descripcion": "Servicio de tramsporte de Carga de gran tamaño"
+      },
+      {
+        "id": 6,
+        "imagen": "img-carousel6.jpg",
+        "alt": "Imagen de las oficinas",
+        "descripcion": "Oficinas pricipales"
       }
 
     ]
