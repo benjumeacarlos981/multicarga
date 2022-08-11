@@ -28,7 +28,7 @@
       },
       {
         "id": 4,
-        "className": "social-link github",
+        "className": ".fi-social-linkedin",
         "href": "https://instagram.com/leonidasesteban",
         "col": "col-3"
       }
