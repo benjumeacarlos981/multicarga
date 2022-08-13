@@ -28,7 +28,7 @@
       },
       {
         "id": 4,
-        "className": "bi bi-twitter",
+        "className": "social-link instagram",
         "href": "https://instagram.com/leonidasesteban",
         "col": "col-3"
       }
