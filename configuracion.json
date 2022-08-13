@@ -10,25 +10,25 @@
     "redesSociales": [
       {
         "id": 1,
-        "className": "social-link twitter",
+        "className": "bi bi-twitter",
         "href": "https://twitter.leonidasesteban",
         "col": "col-3"
       },
       {
         "id": 2,
-        "className": "social-link facebook",
+        "className": "bi bi-facebook",
         "href": "https://facebook.com/leonidas.esteban",
         "col": "col-3"
       },
       {
         "id": 3,
-        "className": "social-link instagram",
+        "className": "bi bi-instagram",
         "href": "https://instagram.com/leonidasesteban",
         "col": "col-3"
       },
       {
         "id": 4,
-        "className": "social-link instagram",
+        "className": "bi bi-github",
         "href": "https://instagram.com/leonidasesteban",
         "col": "col-3"
       }
