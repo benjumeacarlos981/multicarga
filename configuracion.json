@@ -38,8 +38,7 @@
     },
   "navbar": {
     "nombre": "MULTICARGA",
-    "logo": "",
-    "tamanoFontSize": "40px"
+    "logo": ""
 
     "menus": {
       "nosotros": {
