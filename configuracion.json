@@ -38,7 +38,7 @@
     },
   "navbar": {
     "nombre": "MULTICARGA",
-    "logo": "unity.svg",
+    "logo": "",
     "tamanoFontSize": "40px",
 
     "menus": {
