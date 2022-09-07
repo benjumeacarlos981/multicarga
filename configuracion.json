@@ -42,6 +42,7 @@
     "tamanoFontSizeLogo": "40px",
     "colorFontSizelogo": "red",
     "filterSvg": "filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(22deg) brightness(118%) contrast(119%) !important",
+    "filterSvg1": "invert(48%) sepia(79%) saturate(2476%) hue-rotate(22deg) brightness(118%) contrast(119%) !important",
 
     "menus": {
       "nosotros": {
