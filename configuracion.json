@@ -41,7 +41,7 @@
     "logo": "codepen.svg",
     "tamanoFontSizeLogo": "40px",
     "colorFontSizelogo": "#fb9d2b",
-    "filterSvg1": "invert(48%) sepia(79%) saturate(2476%) hue-rotate(22deg) brightness(118%) contrast(119%)",
+    "filterSvg1": "invert(48%) sepia(79%) saturate(2476%) hue-rotate(119deg) brightness(118%) contrast(119%)",
 
     "menus": {
       "nosotros": {
