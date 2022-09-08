@@ -40,8 +40,8 @@
     "nombre": "MULTICARGA",
     "logo": "",
     "tamanoFontSizeLogo": "40px",
-    "colorFontSizelogo": "red",
-    "filterSvg1": "invert(48%) sepia(79%) saturate(2476%) hue-rotate(147deg) brightness(118%) contrast(119%)",
+    "colorFontSizelogo": "#fb9d2b",
+    "filterSvg1": "invert(48%) sepia(79%) saturate(2476%) hue-rotate(22deg) brightness(118%) contrast(119%)",
 
     "menus": {
       "nosotros": {
