@@ -41,8 +41,7 @@
     "logo": "unity.svg",
     "tamanoFontSizeLogo": "40px",
     "colorFontSizelogo": "red",
-    "filterSvg": "invert(48%) sepia(79%) saturate(2476%) hue-rotate(104deg) brightness(118%) contrast(119%)",
-    "filterSvg1": "invert(48%) sepia(79%) saturate(2476%) hue-rotate(104deg) brightness(118%) contrast(119%)",
+    "filterSvg1": "invert(48%) sepia(79%) saturate(2476%) hue-rotate(147deg) brightness(118%) contrast(119%)",
 
     "menus": {
       "nosotros": {
