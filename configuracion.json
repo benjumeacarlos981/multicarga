@@ -18,19 +18,19 @@
         "id": 2,
         "className": "bi bi-facebook",
         "href": "https://facebook.com/leonidas.esteban",
-        "col": "col-2"
+        "col": "col-3"
       },
       {
         "id": 3,
         "className": "bi bi-instagram",
         "href": "https://instagram.com/leonidasesteban",
-        "col": "col-2"
+        "col": "col-3"
       },
       {
         "id": 4,
         "className": "bi bi-whatsapp",
         "href": "https://instagram.com/leonidasesteban",
-        "col": "col-2"
+        "col": "col-3"
       }
       
     ]
@@ -38,7 +38,7 @@
     },
   "navbar": {
     "nombre": "MULTICARGA",
-    "logo": "",
+    "logo": "unity.svg",
     "tamanoFontSizeLogo": "40px",
     "colorFontSizelogo": "#fb9d2b",
     "filterSvg1": "invert(48%) sepia(79%) saturate(2476%) hue-rotate(119deg) brightness(118%) contrast(119%)",
