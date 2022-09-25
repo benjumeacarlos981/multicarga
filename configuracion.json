@@ -31,14 +31,8 @@
         "className": "bi bi-whatsapp",
         "href": "https://instagram.com/leonidasesteban",
         "col": "col-2"
-      },
-            {
-        "id": 5,
-        "className": "bi bi-airplane-fill",
-        "href": "https://instagram.com/leonidasesteban",
-        "col": "col-3"
       }
-
+      
     ]
 
     },
