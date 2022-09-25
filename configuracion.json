@@ -38,7 +38,7 @@
     },
   "navbar": {
     "nombre": "MULTICARGA",
-    "logo": "unity.svg",
+    "logo": "",
     "tamanoFontSizeLogo": "40px",
     "colorFontSizelogo": "#fb9d2b",
     "filterSvg1": "invert(48%) sepia(79%) saturate(2476%) hue-rotate(18deg) brightness(118%) contrast(119%)",
