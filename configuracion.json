@@ -179,8 +179,11 @@
       {
         "id": 3,
         "imagen": "img3.jpg",
-        "titulo": "Embalaje de Mercancía",
-        "descripcion": "Empacamos su mercancía con la mayor delicadeza, seguridad y compactación en materiales de optima calidad y confiabilidad.",
+        "titulo": "Empaque y embalaje de su mercancía",
+        "descripcion": "Servicio de embalaje especial para muebles de hogar u oficina y empaque en cajas.
+
+La tranquilidad de nuestros clientes es de suma importancia. Por lo anterior, empacamos y embalamos sus pertenecías con el mayor cuidado y para eso contamos con personal calificado y material de alta calidad para garantizar el éxito de nuestros servicios.
+",
         "tamanoletraH2": "150%",
         "tamanoletraP": "110%",
         "imgFooter": [
@@ -290,12 +293,12 @@
         },
         {
           "id": 3,
-          "nombre": "Embalaje de Mercancía",
+          "nombre": "Empaque y embalaje de su mercancía.",
           "href": "/"
         },
         {
           "id": 4,
-          "nombre": "Mudanzas en Bogotá",
+          "nombre": "Mudanzas Residenciales y Empresariales",
           "href": "/"
         },
         {
@@ -318,7 +321,7 @@
         {
           "id": 2,
           "icono": "fi-telephone",
-          "detalle": "PBX: (1) 5926249",
+          "detalle": "PBX: (1) 3206680205",
           "href": "/",
           "color": "#7fff00"
         },
