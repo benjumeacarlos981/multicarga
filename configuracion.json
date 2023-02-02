@@ -348,8 +348,8 @@
 
   },
   "telefonoApp": {
-    "color": "red",
-    "backgroundColor": "blue"
+    "color": "#89ff1d",
+    "backgroundColor": "#b4b4b40a"
   }
   ,
   "whatsApp": {
