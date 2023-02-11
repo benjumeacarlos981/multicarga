@@ -117,6 +117,12 @@
         "imagen": "img-carousel2.jpg",
         "alt": "Imagen de las oficinas",
         "descripcion": "Oficinas pricipales"
+      },
+      {
+        "id": 7,
+        "imagen": "img-carouselPrincipal.jpg",
+        "alt": "Imagen de las oficinas",
+        "descripcion": "prueba imagen principal"
       }
 
     ]
