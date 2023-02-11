@@ -29,7 +29,7 @@
       {
         "id": 4,
         "className": "bi bi-whatsapp",
-        "href": "https://instagram.com/Multicarga J&M",
+        "href": "https://api.whatsapp.com/send/?phone=573206680205&amp;text=%C2%A1Hola+Team+Multicarga!",
         "col": "col-3"
       }
       
