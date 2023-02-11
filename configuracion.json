@@ -193,10 +193,10 @@
       {
         "id": 3,
         "imagen": "img2.jpg",
-        "titulo": "Empaque y embalaje de su mercancía.",
+        "titulo": "Empaque y embalaje.",
         "descripcion": "La tranquilidad de nuestros clientes es de suma importancia. Por lo anterior, empacamos y embalamos sus pertenecías con el mayor cuidado y para eso contamos con personal calificado y material de alta calidad para garantizar el éxito de nuestros servicios.",
         "tamanoletraH2": "150%",
-        "tamanoletraP": "75%",
+        "tamanoletraP": "80%",
         "imgFooter": [
           {
             "id": "1",
@@ -252,8 +252,8 @@
         "imagen": "img4.jpg",
         "titulo": "Servicio Expreso o compartido a nivel nacional",
         "descripcion": "Contamos con servicio expreso o consolidado. Realizamos despachos a lo largo del territorio nacional, contamos con camiones de diferentes capacidades con base en las necesidades del servicio contratado.",
-        "tamanoletraH2": "150%",
-        "tamanoletraP": "80%",
+        "tamanoletraH2": "145%",
+        "tamanoletraP": "79%",
         "imgFooter": [
           {
             "id": "1",
