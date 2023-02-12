@@ -79,7 +79,9 @@
     "tituloPrincipalH1": "Soluciones Integrales Multicarga",
     "tituloPrincipalP": "Multicarga es una empresa trasportadora dedicada a transporte de toda clase de mercancía a nivel nacional y local garantizando seguridad, agilidad y experiencia.",
     "tituloPrincipalA": "Quiero ser Conductor",
+    "hrefPrincipalA": "https://api.whatsapp.com/send/?phone=573206680205&amp;text=%C2%A1Hola+Team+Multicarga!",
     "tituloPrincipalBTN": "Cotización",
+    "hrefPrincipalBTN": "https://api.whatsapp.com/send/?phone=573206680205&amp;text=%C2%A1Hola+Team+Multicarga!",
 
     "diapositivas": [
       {
